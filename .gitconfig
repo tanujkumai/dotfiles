@@ -1,0 +1,14 @@
+[user]
+	name = tanujkumai
+	email = tanujkumai01@gmail.com
+[core]
+	editor = nvim
+	autocrlf = input
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
+[fetch]
+	prune = true
+[rebase]
+	autoStash = true
